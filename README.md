@@ -1,4 +1,4 @@
-# PrimeiroProjetoAnaliseDeDados
+# Stellar Classification Dataset 
 Bem-vindo ao repositório do projeto PrimeiroProjetoAnaliseDeDados. Este repositório contém a análise de um dataset com informações detalhadas sobre estrelas.
 
 
