@@ -1,7 +1,7 @@
 # PrimeiroProjetoAnaliseDeDados
 Bem-vindo ao repositório do projeto PrimeiroProjetoAnaliseDeDados. Este repositório contém a análise de um dataset com informações detalhadas sobre estrelas.
 
-#Descrição do Projeto
+## Descrição do Projeto
 Neste projeto, utilizei o Google Colab, Python e as bibliotecas Pandas, Matplotlib e Seaborn para realizar a análise de um dataset de estrelas. A tabela de dados contém as seguintes colunas:
 
 obj_ID = Identificador do Objeto, o valor único que identifica o objeto no catálogo de imagens usado pelo CAS.
