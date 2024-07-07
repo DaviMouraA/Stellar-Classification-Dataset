@@ -23,14 +23,14 @@ plate = ID da placa, identifica cada placa no SDSS.
 MJD = Data Juliana Modificada, usada para indicar quando um determinado conjunto de dados do SDSS foi obtido.
 fiber_ID = ID da fibra que identifica a fibra que apontou a luz no plano focal em cada observação.
 
-Ferramentas Utilizadas
+## Ferramentas Utilizadas
 Google Colab: Para execução do código e análise interativa.
 Python: Linguagem de programação utilizada.
 Pandas: Biblioteca utilizada para manipulação e análise de dados.
 Matplotlib: Biblioteca utilizada para criação de gráficos.
 Seaborn: Biblioteca utilizada para visualização de dados baseada no Matplotlib.
 
-Exemplos de Análise de Dados do Projeto
+## Exemplos de Análise de Dados do Projeto
 Abaixo estão alguns exemplos de análises e visualizações de dados que você encontrará no projeto:
 
 Informações gerais sobre o DataFrame.
