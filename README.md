@@ -44,9 +44,13 @@ fiber_ID = ID da fibra que identifica a fibra que apontou a luz no plano focal e
 
 ## Ferramentas Utilizadas
 Google Colab: Para execução do código e análise interativa.
+
 Python: Linguagem de programação utilizada.
+
 Pandas: Biblioteca utilizada para manipulação e análise de dados.
+
 Matplotlib: Biblioteca utilizada para criação de gráficos.
+
 Seaborn: Biblioteca utilizada para visualização de dados baseada no Matplotlib.
 
 
@@ -54,9 +58,15 @@ Seaborn: Biblioteca utilizada para visualização de dados baseada no Matplotlib
 Abaixo estão alguns exemplos de análises e visualizações de dados que você encontrará no projeto:
 
 Informações gerais sobre o DataFrame.
+
 Seleção de trechos específicos do DataFrame (colunas, linhas, splices).
+
 Filtros para criação de novos DataFrames com critérios específicos.
+
 Agrupamento de dados por valores e cálculo de médias.
+
 Verificação de dados nulos e duplicados.
+
 Visualização de contagens de classes e distribuição de valores com gráficos de dispersão e histogramas.
+
 Medidas descritivas das variáveis.
