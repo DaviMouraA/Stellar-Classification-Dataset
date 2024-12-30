@@ -1,5 +1,5 @@
 # Stellar Classification Dataset 
-Bem-vindo ao repositório do meu primeiro projeto de Analise de Dados. Este repositório contém a análise de um dataset com informações detalhadas sobre estrelas, afim de identificar padrões e classifica-las.
+Bem-vindo ao repositório do meu primeiro projeto de Analise de Dados. Este repositório contém a análise de um dataset com informações detalhadas sobre estrelas, afim de identificar padrões e classificá-las.
 
 
 ## Descrição do Projeto
